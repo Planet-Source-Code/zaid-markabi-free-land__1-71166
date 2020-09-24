@@ -1,0 +1,32 @@
+How to Setup :
+
+[1]
+Please rename [ TrueVision 3D.zaid ] to [ TrueVision 3D.rar ] .
+
+[2]
+Unzip [ TrueVision 3D.rar ] using WinRar or similar software ,I used WinRar to compress it..
+
+[3]
+you will have these files :
+Meshes_Sketch_5.dll
+Meshes_Sketch_5.lib
+Meshes_Sketch_5.exp
+dx8vb.dll
+truevision3d.dll
+tvmedia.dll
+REG_TV3D.BAT
+
+[4]
+Run [ REG_TV3D.BAT ] which included in [ TrueVision 3D ] folder.
+
+[5]
+Open [ Free Land ] folder, and run the project..
+
+I'm sorry,
+I did this complex setup, Because PSC don't allow to upload DLL files,..
+
+for any suggesting,
+zaidmarkabi@yahoo.com
+
+thanks,
+Zaid Markabi
